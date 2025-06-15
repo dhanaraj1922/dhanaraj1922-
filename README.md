@@ -3,13 +3,13 @@
 <h3 align="center">A passionate Cybersecurity Enthusiast from India.</h3>
 
 - 🔐 I’m currently learning Ethical Hacking and Network Security
--  
+  
 - 📚 Exploring tools like Wireshark, Burp Suite, and Metasploit
-- 
+
 - 💻 I’m working on cybersecurity projects like secure login systems and vulnerability scanners
-- 
+  
 - 🤝 I’m looking to collaborate on open-source security tools
--   
+  
 - 📫 How to reach me: dhanarajpatil31@gmail.com
 
 <h3 align="left">Connect with me:</h3>
@@ -45,7 +45,7 @@
 </p>
 
 
- 🛡️ Skills and Tools:
+  <h3 align="left">🛡️Skills and Tool:</h3>s
 ![Python](https://img.shields.io/badge/-Python-333?style=flat-square&logo=python)
 ![Linux](https://img.shields.io/badge/-Linux-333?style=flat-square&logo=linux)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-333?style=flat-square&logo=wireshark)
