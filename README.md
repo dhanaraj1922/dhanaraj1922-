@@ -55,6 +55,11 @@
 ![Git](https://img.shields.io/badge/-Git-333?style=flat-square&logo=git)
 ![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat-square&logo=html5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat-square&logo=javascript)
+![CSS](https://img.shields.io/badge/-CSS-333?style=flat-square&logo=css3&logoColor=1572B6)
+![C#](https://img.shields.io/badge/-C%23-333?style=flat-square&logo=c-sharp&logoColor=239120)
+![C](https://img.shields.io/badge/-C-333?style=flat-square&logo=c&logoColor=A8B9CC)
+![C++](https://img.shields.io/badge/-C++-333?style=flat-square&logo=c%2B%2B&logoColor=00599C)
+
 
 ---
 
