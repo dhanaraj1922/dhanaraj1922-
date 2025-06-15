@@ -59,5 +59,7 @@
 ---
 
 ### 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanaraj1922 &show_icons=true&locale=en&layout=compact" alt="dhanaraj1922" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhanaraj1922 &show_icons=true&locale=en" alt="dhanaraj1922" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanaraj1922&show_icons=true&locale=en&layout=compact" alt="dhanaraj1922" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhanaraj1922&show_icons=true&locale=en" alt="dhanaraj1922" /></p>
