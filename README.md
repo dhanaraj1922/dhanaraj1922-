@@ -44,8 +44,8 @@
   </a>
 </p>
 
-
-  <h3 align="left">🛡️Skills and Tool:</h3> :
+<h3 align="left">🛡️Skills and Tool:</h3>
+  
 ![Python](https://img.shields.io/badge/-Python-333?style=flat-square&logo=python)
 ![Linux](https://img.shields.io/badge/-Linux-333?style=flat-square&logo=linux)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-333?style=flat-square&logo=wireshark)
