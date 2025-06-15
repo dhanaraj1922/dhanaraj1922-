@@ -1,7 +1,4 @@
-# dhanaraj1922-
-🛡️ A ✨special✨ repository that customizes my GitHub profile. It highlights my skills and passion in cybersecurity, including ethical hacking, network security, and secure application development.
-
-### Hi 👋, I'm Dhanaraj Rajendra Patil
+ Hi 👋, I'm Dhanaraj Rajendra Patil
 
 A passionate Cybersecurity Enthusiast from India
 
@@ -11,9 +8,8 @@ A passionate Cybersecurity Enthusiast from India
 - 🤝 I’m looking to collaborate on open-source security tools  
 - 📫 How to reach me: dhanarajpatil31@gmail.com
 
----
 
-### 🛡️ Skills and Tools:
+ 🛡️ Skills and Tools:
 ![Python](https://img.shields.io/badge/-Python-333?style=flat-square&logo=python)
 ![Linux](https://img.shields.io/badge/-Linux-333?style=flat-square&logo=linux)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-333?style=flat-square&logo=wireshark)
@@ -27,4 +23,4 @@ A passionate Cybersecurity Enthusiast from India
 ---
 
 ### 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?dhanaraj1922 =dhanaraj1922 &show_icons=true&theme=radical)
+[GitHub Stats](https://github-readme-stats.vercel.app/api?dhanaraj1922 =dhanaraj1922 &show_icons=true&theme=radical)
